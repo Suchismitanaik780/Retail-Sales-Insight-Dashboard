@@ -80,72 +80,79 @@ Revenue is increasing, but profitability and performance vary across:
 
 📌 KPIs
 --------------
-  ◦💰 Revenue
+
+
+       ◦💰 Revenue
   
-  ◦📦 Units Sold
+       ◦📦 Units Sold
   
-  ◦🎯 Average Discount
+       ◦🎯 Average Discount
   
-  ◦👥 Active Customers
+       ◦👥 Active Customers
   
-  ◦📈 Profit
+       ◦📈 Profit
   
-  ◦💹 Profit Margin
+       ◦💹 Profit Margin
   
 🎛️ Filters
 -----------------------
 
-  ◦🌍 Region
+
+
+       ◦🌍 Region
   
-  ◦🏪 Store
+       ◦🏪 Store
   
-  ◦📦 Product Category
+       ◦📦 Product Category
   
-  ◦📅 Date
+       ◦📅 Date
   
-  ◦👥 Customer Segment
+       ◦👥 Customer Segment
   
 📄 Dashboard Pages
 ------------------------
 
-  ◦📈 Sales Overview
+       ◦📈 Sales Overview
  
-  ◦📦 Product Analytics
+       ◦📦 Product Analytics
   
-  ◦👥 Customer Analytics
+       ◦👥 Customer Analytics
   
-  ◦🏢 Manager Dashboard
+       ◦🏢 Manager Dashboard
   
 ⚡ Features
 -----------------------
 
-  ◦📊 Interactive Visualizations
+
+       ◦📊 Interactive Visualizations
   
-  ◦🧮 DAX Measures and Calculations
+       ◦🧮 DAX Measures and Calculations
   
-  ◦📅 Date Filtering
+       ◦📅 Date Filtering
   
-  ◦🔍 Drill-through Analysis
+       ◦🔍 Drill-through Analysis
   
-  ◦🔐 Row-Level Security (RLS)
+       ◦🔐 Row-Level Security (RLS)
   
-  ◦☁️ Power BI Service Publishing
+       ◦☁️ Power BI Service Publishing
   
 🛠️ Tools Used
 ------------------------
 
-  ◦📊 Power BI Desktop
+
+       ◦📊 Power BI Desktop
   
-  ◦🔄 Power Query
+       ◦🔄 Power Query
   
-  ◦🧮 DAX
+       ◦🧮 DAX
   
-  ◦🗄️ Data Modeling
+       ◦🗄️ Data Modeling
   
-  ◦☁️ Power BI Service
+       ◦☁️ Power BI Service
   
 📈 Expected Outcomes
 --------------------------------------
+
 
 
   ◦🚀 Improved visibility into sales performance.
